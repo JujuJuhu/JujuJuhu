@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JujuJuhu
 - 👀 I’m interested in Food
-- 🌱 I’m currently learning JavaScipr, C++, Python
+- 🌱 I’m currently learning JavaScript, C++, Python
 - 💞️ I’m looking to collaborate on [not yet]
 - 📫 How to reach me jovita.khu@gmail.com
 
